@@ -13,7 +13,9 @@ The inspiration of the **MCPrinciple** community comes from the previous excelle
 *We will not concede defeat, we will not bow down, we will operate the community until the end of the world.*  
 
 
-***-- MCPrinciple Community long-term agent LEFT_Flamelight***
+***-- MCPrinciple Community long-term agent LEFT_Flamelight***  
+
+----
 
 **MCPrinciple**是一个鼓励玩家自由创造的社区，创立于2022年9月。创始初衷是将研究的原理，规则更好地散布给大家，最大限度地组织纷争，更好的给社区营造良好的环境。  
 
