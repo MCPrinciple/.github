@@ -8,7 +8,7 @@ The **PrincipleDEV** development team, a branch of *BUGdev*, was formed by a gro
 
 The inspiration of the **MCPrinciple** community comes from the previous excellent community **MCBUG**, and the original intention of the **MCPrinciple** is to manage the whole world in a different way, take a different path, carry forward the spirit, stay true to the original intention, and be more innovative and positive.  
 
-*Take the principle as the basic, take the good as the example, take humanity as the guide. We believe that as long as everyone can be good and believe in good, then there will be no strife, no hatred, no chaos in our social circle.*  
+***Take the principle as the basic, take the good as the example, take humanity as the guide. We believe that as long as everyone can be good and believe in good, then there will be no strife, no hatred, no chaos in our social circle.***  
 
 *We will not concede defeat, we will not bow down, we will operate the community until the end of the world.*  
 
@@ -25,9 +25,9 @@ The inspiration of the **MCPrinciple** community comes from the previous excelle
 
 **MCPrinciple**社群的灵感来源于在此之前的优秀社群**MCBUG**，而创立**MCPrinciple**的初衷也是以更加不同的方式管理全局，走不同的道路，发扬自己的精神，不忘初心，而且做到更为创新，积极向上。  
 
-*以原则为基本，以善者为榜样，以人本身为引导。我们相信只要人人都能自善，相信善，那么我们的交际圈就不会出现纷争，出现仇恨，出现混乱。* 
+***以原则为基本，以善者为榜样，以人本身为引导。我们相信只要人人都能自善，相信善，那么我们的交际圈就不会出现纷争，出现仇恨，出现混乱。*** 
 
-*我们不会服输，我们不会低头，我们会把社群运作至世界末日。*  
+*我们不会服输，我们不会低头，我们会把社群运作至世界末日.  
 
 
 ***——MCPrinciple社区长期代理人 离耀***
