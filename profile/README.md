@@ -35,7 +35,7 @@ The inspiration of the **MCPrinciple** community comes from the previous excelle
 
 > ***以原则为基本，以善者为榜样，以人本身为引导。我们相信只要人人都能自善，相信善，那么我们的交际圈就不会出现纷争，出现仇恨，出现混乱。*** 
 
-*我们不会服输，我们不会低头，我们会把社群运作至世界末日.  
+*我们不会服输，我们不会低头，我们会把社群运作至世界末日. * 
 
 
 ***——MCPrinciple社区长期代理人 离耀***
