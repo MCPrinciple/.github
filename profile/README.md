@@ -1,5 +1,10 @@
 # MCPrinciple
 
+### This organization has the status of both MCPrinciple and PrincipleDEV development groups.  
+### 本组织同时具有MCPrinciple和PrincipleDEV开发组的地位。  
+
+----
+
 The **MCPrinciple**, a community that encourages players to create freely, was founded in September 2022. The original intention is to disseminate the principles and rules of research to everyone better, to prevent disputes to the greatest extent, and to create a better environment for the community.  
 
 It is based on the group public welfare server. At present, the main server is **MCPrinciple-Ultimate** (Server A). There are three servers under its umbrella, all of which are operated by non-profit practices.  
