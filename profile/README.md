@@ -5,7 +5,10 @@
 
 #### [Official Website官方网站](http://www.mcprinciple.online/)
 #### 社群/服务器QQ主群：916937133
-#### 开发组QQ群（发送验证信息时请说明自己的来意）：769961311
+#### 开发组QQ群（发送验证信息时请说明自己的来意）：769961311  
+#### [Gitee](https://gitee.com/mcprinciple)
+#### [Discord](https://discord.gg/Z5cxZ6WQ4f)
+
 ----
 
 The **MCPrinciple**, a community that encourages players to create freely, was founded in September 2022. The original intention is to disseminate the principles and rules of research to everyone better, to prevent disputes to the greatest extent, and to create a better environment for the community.  
@@ -38,6 +41,20 @@ The inspiration of the **MCPrinciple** community comes from the previous excelle
 *我们不会服输，我们不会低头，我们会把社群运作至世界末日。* 
 
 
-***——MCPrinciple社区长期代理人 离耀***
+***——MCPrinciple社区长期代理人 离耀***  
 
+----
 
+**MCPrinciple**是一個鼓勵玩家自由創造的社區，創立於2022年9月。 創始初衷是將研究的原理，規則更好地散佈給大家，最大限度地組織紛爭，更好的給社區營造良好的環境。  
+
+其基礎為群組公益伺服器，目前主要的伺服器為**MCPrinciple-Ultimate**（A服），旗下的伺服器總共有三個，所有的伺服器均採用非盈利性慣例運作。  
+
+主要的開發核心為**PrincipleDEV**開發組，為*BUGdev*的分支，是一群熱愛無私奉獻與創造的玩家共同組建的開發組，以Java版**Minecraft**Mod開發和*Java程式*編寫為主要任務。  
+
+**MCPrinciple**社群的靈感來源於在此之前的優秀社群**MCBUG**，而創立**MCPrinciple**的初衷也是以更加不同的方式管理全域，走不同的道路，發揚自己的精神，不忘初心，而且做到更為創新，積極向上。  
+
+> ***以原則為基本，以善者為榜樣，以人本身為引導。 我們相信只要人人都能自善，相信善，那麼我們的交際圈就不會出現紛爭，出現仇恨，出現混亂。 *** 
+
+*我們不會服輸，我們不會低頭，我們會把社群運作至世界末日。 * 
+
+——MCPrinciple社區長期代理人 離耀***  
