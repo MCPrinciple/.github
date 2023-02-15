@@ -3,10 +3,10 @@
 ### This organization has the status of both MCPrinciple and PrincipleDEV development groups.  
 ### 本组织同时具有MCPrinciple和PrincipleDEV开发组的地位。  
 
-#### [Official Website官方网站](http://www.mcprinciple.online/)
 #### 社群/服务器QQ主群：916937133
 #### 开发组QQ群（发送验证信息时请说明自己的来意）：769961311  
 #### [Gitee](https://gitee.com/mcprinciple)
+<iframe src="https://discord.com/widget?id=1066632898515578931&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 #### [Discord](https://discord.gg/Z5cxZ6WQ4f)
 
 ----
