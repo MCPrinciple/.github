@@ -1,6 +1,6 @@
 ![icon](https://github.com/PrincipleCreativity/.github/blob/main/pictures/icon.png)
 
-### This organization has the status of both MCPrinciple and PrincipleDEV development groups.  
+### This organization has the status of both Principle Community and PCDO(Principle Creativity Developments' Organization).  
 
 <a href="https://discord.gg/48F8eF5Yra"><img alt="Discord" src="https://img.shields.io/discord/1066632898515578931?color=4a0080&label=discordcommunity&style=for-the-badge"></a>
 
