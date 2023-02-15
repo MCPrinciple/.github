@@ -1,4 +1,4 @@
-![icon](https://github.com/PrincipleCreativity/.github/blob/main/pictures/principle.png?raw=true)
+![icon](https://github.com/PrincipleCreativity/.github/blob/main/pictures/principle.png)
 
 ### This organization has the status of both MCPrinciple and PrincipleDEV development groups.  
 ### 本组织同时具有MCPrinciple和PrincipleDEV开发组的地位。  
