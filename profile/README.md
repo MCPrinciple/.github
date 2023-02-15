@@ -4,6 +4,8 @@
 
 <a href="https://discord.gg/48F8eF5Yra"><img alt="Discord" src="https://img.shields.io/discord/1066632898515578931?color=4a0080&label=discordcommunity&style=for-the-badge"></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrincipleCreativity)](https://github.com/anuraghazra/github-readme-stats)
+
 ----
 
 The **MCPrinciple**, a community that encourages players to create freely, was founded in September 2022. The original intention is to disseminate the principles and rules of research to everyone better, to prevent disputes to the greatest extent, and to create a better environment for the community.  
