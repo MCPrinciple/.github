@@ -4,7 +4,7 @@
 
 # Welcome to PrincipleCreativity's Github homepage!🙌
 
-This is creative organization that is passionate about learning📖, developing🖥️, and helping🤝.
+This is **creative organization** that is passionate about learning📖, developing🖥️, and helping🤝.
 
 The purpose is **collaboration and creative development**.
 
